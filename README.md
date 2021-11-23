@@ -76,4 +76,4 @@ ql repo https://github.com/subcarry/AioYiBan.git "" "images|notify"
 ![](https://cdn.jsdelivr.net/gh/subcarry/AioYiBan@main/images/result.jpg)
 
 ### 辅助开发
-![@Mashiro2000](https://github.com/Mashiro2000)
+[@Mashiro2000](https://github.com/Mashiro2000)
