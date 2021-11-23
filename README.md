@@ -72,4 +72,4 @@ ql repo https://github.com/subcarry/AioYiBan.git "" "images|notify"
 ## 个人通知邮箱
 感谢舍友[@QingYi202](https://github.com/QingYi202)提供的邮箱模板
 ### 效果图
-![](https://cdn.jsdelivr.net/gh/subcarry/AioYiBan@main/images/clockIn.jpg)
+![](https://cdn.jsdelivr.net/gh/subcarry/AioYiBan@main/images/result.jpg)
