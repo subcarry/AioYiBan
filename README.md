@@ -71,6 +71,7 @@ ql repo https://github.com/subcarry/AioYiBan.git "" "images|notify"
 
 ## 个人通知邮箱
 > 邮箱模板[@QingYi202](https://github.com/QingYi202)
+> 
 > 辅助开发[@Mashiro2000](https://github.com/Mashiro2000)
 
 ### 效果图
